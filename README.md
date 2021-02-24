@@ -9,3 +9,4 @@ Look here see, if you are going to be sassy you have to get your stuff right
 **you cannot get bolded text without *closing out* the line with asterisks**
 
 *Are these edits being pushed to origin?*
+Yes sir they are.
