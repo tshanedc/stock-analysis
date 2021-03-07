@@ -8,10 +8,9 @@ For this project, I helped Steve create a program to analyze a set of stocks for
 We recommend that Steve's parents buy ENPH. If one is looking only at Figure 1, he or she may determine that buying RUN is the smarter move because its return of 84% leads the market. However, if one looks at figure 2
 
 
-**Figure 1**                **Figure 2**
-
-
+**Figure 1** 
 ![2017StockReturns](2017StockReturns.png) 
+**Figure 2**
 ![2018StockReturns](2018StockReturns.png)
 
 
