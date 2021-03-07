@@ -26,13 +26,23 @@ The stocks' performance was not the only significant finding from this project. 
 ![VBA_Challenge_Slow2017](VBA_Challenge_Slow2017.png)
 ![VBA_Challenge_Slow2018](VBA_Challenge_Slow2018.png)
 
-### Stock Analysis Program Re-factored
-My Re-factored program analyzed the stock market performance of 2017 and 2018 with a lot more efficiency. As shown in **Figure 4** both processes took less than a third of a second. This is a much-needed improvement. 
 
 
 #### Figure 4
 ![VBA_Challenge_2017](VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
+
+### Stock Analysis Program Re-factored
+My Re-factored program analyzed the stock market performance of 2017 and 2018 with a lot more efficiency. As shown in **Figure 4** both processes took less than a third of a second. This is a much-needed improvement. This was accomplished by creating a variable *tickerIndex* which was first set equal to zero and then looped over all the rows *e.g.* stocks. **Figure 5** shows the _tickerIndex_ creation and **Figure 6** shows the For Loop which the _tickerIndex_ was then run through. As you can see, the _tickerindex_ was used to access the stock ticker index for the tickers arrau and all three output arrays: _tickerVolumes_, _tickerStartingPrice_, and _tickerEndingPrice_. The efficiencies created by utilizing the _tickerIndex_ were transferred to my program, allowing for quicker run times and a better user experience.
+
+
+#### Figure 5
+![TickerIndex](TickerIndex.png)
+
+#### Figure 6
+![ForLoop1](ForLoop1.png)
+
 
 ## Summary
 
@@ -47,6 +57,6 @@ Re-factoring this code was not a simple task. It was a frustrating and challengi
 Re-factoring does have some drawbacks, however, beyond being a frustrating process for novice programmers.
 1) Re-factoring code does take time, and in the commercial world, time means resources and money. Most businesses seek to reduce operating costs, but this is especially critical for start-ups working with limited capital. Although re-factored code is more robust and adaptable, if re-factoring the program would lead into missed deadlines and budget overruns, re-factoring efforts may need to be limited or delayed until time and funding factors allow for the team to re-factor the existing program.
 
-In the case of re-factoring the Stock Analysis program, I did not face time or budget constraints. Additionally, the clunky nature of the first code, without tickerIndex, provided ample incentive to re-factor this program, although it was functional in its unrefined form. The benefits go beyond a shorter processing time. Additional features and analysis can be applied to this set of stocks more easily and efficiently by utilizig the re-factored codes and indices.
+In the case of re-factoring the Stock Analysis program, I did not face time or budget constraints. Additionally, the clunky nature of the first code, without _tickerIndex_, provided ample incentive to re-factor this program, although it was functional in its unrefined form. The benefits go beyond a shorter processing time. Additional features and analysis can be applied to this set of stocks more easily and efficiently by utilizig the re-factored codes and indices.
 
 
