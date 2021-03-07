@@ -5,6 +5,8 @@ For this project, I helped Steve create a program to analyze a set of stocks for
 
 ## Results
 
+### Stock Market Findings and Recommendation
+
 We recommend that Steve's parents buy ENPH. If one is looking only at **Figure 1**, he or she may determine that buying RUN is the smarter move because its return of 84% leads the market. However, if one looks at **Figure 2**, he or she will see that RUN actually saw one of the smallest gains at 5.55%. In this same year, ENPH did very well by ending the year **+129.52%**. Over the two years, ENPH had the greatest returns. However, the case with DQ serves as a cautionary tale that past success is not indicative of future returns. 
 
 
@@ -16,10 +18,21 @@ We recommend that Steve's parents buy ENPH. If one is looking only at **Figure 1
 
 ![2017StockReturns](2017StockReturns.png) 
 
-The stocks' performance was not the only significant finding from this project. I also gained experience in re-factoring my Stock Analysis program. The original code I used to analyze the stock returns in 2017 and 2018 was funcitonal, but it had an awkward lag. With the goal of improving the customer experience, I used a timer function to measure the time it took for the program to run from start to finish. This is a useful proxy in gauging the impact on user experience. **Figure 3** shows the time it took for the original program to analyze stock performance in 2017 and 2018
+### Stock Analysis Program 
+
+The stocks' performance was not the only significant finding from this project. I also gained experience in re-factoring my Stock Analysis program. The original code I used to analyze the stock returns in 2017 and 2018 was funcitonal, but it had an awkward lag. With the goal of improving the customer experience, I used a timer function to measure the time it took for the program to run from start to finish. This is a useful proxy in gauging the impact on user experience. **Figure 3** shows the time it took for the original program to analyze stock performance in 2017 and 2018. Both processes took greater than one second. This may not seem like much, but this delay is enough to render this program of little value on the commercial market. Faster speeds and an improved customer experience are critical if I want to bring this functionality to more customers beyond Steve's parents.
 
 #### Figure 3
+![VBA_Challenge_Slow2017](VBA_Challenge_Slow2017.png)
+![VBA_Challenge_Slow2018](VBA_Challenge_Slow2018.png)
 
+### Stock Analysis Program Re-factored
+My Re-factored program analyzed the stock market performance of 2017 and 2018 with a lot more efficiency. As shown in **Figure 4** both processes took less than a third of a second. This is a much-needed improvement. 
+
+
+#### Figure 4
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
 ## Summary
 
