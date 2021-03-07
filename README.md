@@ -8,15 +8,17 @@ For this project, I helped Steve create a program to analyze a set of stocks for
 We recommend that Steve's parents buy ENPH. If one is looking only at **Figure 1**, he or she may determine that buying RUN is the smarter move because its return of 84% leads the market. However, if one looks at **Figure 2**, he or she will see that RUN actually saw one of the smallest gains at 5.55%. In this same year, ENPH did very well by ending the year **+129.52%**. Over the two years, ENPH had the greatest returns. However, the case with DQ serves as a cautionary tale that past success is not indicative of future returns. 
 
 
-**Figure 1** 
+#### Figure 1
 
 ![2018StockReturns](2018StockReturns.png)
 
-**Figure 2**
+#### Figure 2
 
 ![2017StockReturns](2017StockReturns.png) 
 
+The stocks' performance was not the only significant finding from this project. I also gained experience in re-factoring my Stock Analysis program. The original code I used to analyze the stock returns in 2017 and 2018 was funcitonal, but it had an awkward lag. With the goal of improving the customer experience, I used a timer function to measure the time it took for the program to run from start to finish. This is a useful proxy in gauging the impact on user experience. **Figure 3** shows the time it took for the original program to analyze stock performance in 2017 and 2018
 
+#### Figure 3
 
 
 ## Summary
