@@ -7,6 +7,16 @@ VBA was very helpful in conducting this analysis, as it allowed for us to automa
 
 ## Results
 
+**Figure 1**
+
+
+![2017StockReturns](2017StockReturns.png)
+
+
+**Figure 2**
+
+
+![2018StockReturns](2018StockReturns.png)
 
 
 ## Summary
