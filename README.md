@@ -5,19 +5,16 @@ For this project, I helped Steve create a program to analyze a set of stocks for
 
 ## Results
 
-We recommend that Steve's parents buy ENPH. If one is looking only at Figure 1, he or she may determine that buying RUN is the smarter move because its return of 84% leads the market. However, if one looks at figure 2
+We recommend that Steve's parents buy ENPH. If one is looking only at **Figure 1**, he or she may determine that buying RUN is the smarter move because its return of 84% leads the market. However, if one looks at **Figure 2**, he or she will see that RUN actually saw one of the smallest gains at 5.55%. In this same year, ENPH did very well by ending the year **+129.52%**. Over the two years, ENPH had the greatest returns. However, the case with DQ serves as a cautionary tale that past success is not indicative of future returns. 
 
 
 **Figure 1** 
 
-![2017StockReturns](2017StockReturns.png) 
+![2018StockReturns](2018StockReturns.png)
 
 **Figure 2**
 
-![2018StockReturns](2018StockReturns.png)
-
-
-
+![2017StockReturns](2017StockReturns.png) 
 
 
 
