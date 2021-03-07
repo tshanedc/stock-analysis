@@ -5,21 +5,24 @@ For this project, I helped Steve create a program to analyze a set of stocks for
 
 ## Results
 
-**Figure 1**
+We recommend that Steve's parents buy ENPH. If one is looking only at Figure 1, he or she may determine that buying RUN is the smarter move because its return of 84% leads the market. However, if one looks at figure 2
 
 
-![2017StockReturns](2017StockReturns.png)
+**Figure 1**                **Figure 2**
 
 
-**Figure 2**
-
-
+![2017StockReturns](2017StockReturns.png) 
 ![2018StockReturns](2018StockReturns.png)
+
+
+
+
+
 
 
 ## Summary
 
-Re-factoring this code was not a simple task. It was a frustrating and challenging process that left me quetioning, "Why am I doing this?" more than once during the project. Yes, there was concrete evidence that the re-factoring process sped-up the length of time it took for the program to run, but I was interested in greater returns that I uncovered upong further reflection.
+Re-factoring this code was not a simple task. It was a frustrating and challenging process. "Why am I spending so much time 'fixing' a functioning program?" crossed my mind more than once during the project. Yes, there was concrete evidence that the re-factoring process decreased the amount of time it took for the program to run, but I was interested in greater returns that I uncovered upong further reflection.
 
 ### Pros of Re-factoring
 1) The code is *cleaner* and thus easier to read and understand. This makes working in teams a smoother, more effective process.
@@ -28,8 +31,8 @@ Re-factoring this code was not a simple task. It was a frustrating and challengi
 
 ### Cons of Re-factoring
 Re-factoring does have some drawbacks, however, beyond being a frustrating process for novice programmers.
-1) Re-factoring code does take time, and in the commercial world, time means resources and money. Most businesses seek to reduce operating costs, but this is especially critical for start-ups working with limited capital. Although re-factored code is more robust and adapabtale, if re-factoring the program would lead into missed deadlines and budget overruns, re-factoring efforts may need to be limited or delayed until time and funding factors allow for the team to re-factor the existing program.
+1) Re-factoring code does take time, and in the commercial world, time means resources and money. Most businesses seek to reduce operating costs, but this is especially critical for start-ups working with limited capital. Although re-factored code is more robust and adaptable, if re-factoring the program would lead into missed deadlines and budget overruns, re-factoring efforts may need to be limited or delayed until time and funding factors allow for the team to re-factor the existing program.
 
-In the case of this re-factoring the Stock analysis program, we did not face time or budget constraints. Additionally, the clunky nature of the first code, without the tickerIndex, provided ample incentive to re-factor this program. The benefits go beyond a shorter processing time. Additional features and analysis can be applied to this set of stocks more easily and efficiently by utilizig the re-factored codes and indices.
+In the case of re-factoring the Stock Analysis program, I did not face time or budget constraints. Additionally, the clunky nature of the first code, without tickerIndex, provided ample incentive to re-factor this program, although it was functional in its unrefined form. The benefits go beyond a shorter processing time. Additional features and analysis can be applied to this set of stocks more easily and efficiently by utilizig the re-factored codes and indices.
 
 
