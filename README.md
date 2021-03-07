@@ -9,8 +9,11 @@ We recommend that Steve's parents buy ENPH. If one is looking only at Figure 1, 
 
 
 **Figure 1** 
+
 ![2017StockReturns](2017StockReturns.png) 
+
 **Figure 2**
+
 ![2018StockReturns](2018StockReturns.png)
 
 
